@@ -39,15 +39,3 @@ Classes: Objects/obstacles on railway tracks
 5. **Sound Alert Mechanism**  
    - Triggered a **beep sound** using the `winsound` module whenever an obstacle is detected.
 
-
-**>>>Technologies & Libraries Used**
-
--Ultralytics YOLOv8 → Model training & inference
-
--OpenCV → Image capture, display, and preprocessing
-
--Winsound → Play alert sound (Windows only)
-
--PyMsgBox → Show popup alert when an obstacle is detected
-
--Time → Manage alert cooldowns to prevent spamming
