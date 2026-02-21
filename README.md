@@ -1,4 +1,4 @@
-**>>>Project Overview**
+# Project Overview
 
 This project is a deep learning-based system designed to detect obstacles on railway tracks using a YOLOv8 object detection model.It provides real-time alerts through sound and popup messages when an obstacle is detected, helping to enhance railway safety.
 
