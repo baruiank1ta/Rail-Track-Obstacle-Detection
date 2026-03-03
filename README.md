@@ -31,7 +31,7 @@ Classes: Objects/obstacles on railway tracks
    - Experimented with multiple hyperparameters, selecting the best-performing weights for deployment.
 
 ### 3. Live Cam Detection  
-     -system can process live camera input to detect obstacles on railway tracks. For simplicity, the current implementation uses full-frame detection without restricting to a region of interest.
+   -system can process live camera input to detect obstacles on railway tracks. For simplicity, the current implementation uses full-frame detection without restricting to a region of interest.
 
 ### 4. Alert System Integration 
    - On detecting an obstacle with high confidence, the system:  
