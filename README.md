@@ -6,9 +6,9 @@ This project is a deep learning-based system designed to detect obstacles on rai
 
 The detection system works both with:
 
--Live webcam feed (real-time detection)
+- Live webcam feed (real-time detection)
 
--Static images (image-based detection)
+- Static images (image-based detection)
 
 ## Dataset
 
